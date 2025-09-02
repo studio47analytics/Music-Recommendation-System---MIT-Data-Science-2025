@@ -38,7 +38,15 @@ Optional Ensemble Blending: For even greater performance and diversity.
 
 ## Methodology
 
-d Data Preparation: User-song interaction matrix, song metadata extraction, and feature engineering.
+Data Preparation: User-song interaction matrix, song metadata extraction, and feature engineering.
+
+[song_data.csv]
+https://drive.google.com/file/d/1hW3UUQjKwMH_THHh3mn_UAoG-gM2Ay-Z/view?usp=share_link
+
+
+[count_data.csv]
+https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share_link
+
 ## Modeling Approaches:
   Popularity-based baseline
   User-user and item-item collaborative filtering
@@ -98,6 +106,7 @@ Full Report & Code
 
 Access the complete project report, code, and analysis here:  
 Music Recommendation System – Google Drive
+
 https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link
 
 For questions or collaboration inquiries, please reach out via email or connect on GitHub.
