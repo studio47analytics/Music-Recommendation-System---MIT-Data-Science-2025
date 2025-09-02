@@ -48,64 +48,64 @@ https://drive.google.com/file/d/1hW3UUQjKwMH_THHh3mn_UAoG-gM2Ay-Z/view?usp=share
 https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share_link
 
 ## Modeling Approaches:
-  Popularity-based baseline
-  User-user and item-item collaborative filtering
-  Matrix factorization (SVD), including hyperparameter tuning
-  Content-based filtering for cold start and diversity
-  Hybrid/ensemble models
-Evaluation Metrics: RMSE, Precision@K, Recall@K, coverage, diversity, and user engagement
-Monitoring: Automated retraining, hyperparameter tuning, and A/B testing for ongoing improvement
+ * Popularity-based baseline
+ * User-user and item-item collaborative filtering
+ * Matrix factorization (SVD), including hyperparameter tuning
+ * Content-based filtering for cold start and diversity
+ * Hybrid/ensemble models
+### Evaluation Metrics: RMSE, Precision@K, Recall@K, coverage, diversity, and user engagement
+### Monitoring: Automated retraining, hyperparameter tuning, and A/B testing for ongoing improvement
 
 ## Business Impact
 
-Drives Engagement: Personalized recommendations increase session length and repeat visits.
-Boosts Retention: Diverse, satisfying discovery reduces churn.
-Promotes Catalog Utilization: Surfaces both mainstream and niche content, maximizing catalog value.
-Supports Marketing: Enables personalized campaigns and targeted promotions.
+* Drives Engagement: Personalized recommendations increase session length and repeat visits.
+* Boosts Retention: Diverse, satisfying discovery reduces churn.
+* Promotes Catalog Utilization: Surfaces both mainstream and niche content, maximizing catalog value.
+* Supports Marketing: Enables personalized campaigns and targeted promotions.
 
 ## Implementation Recommendations
 
-Deploy the Hybrid System:
-   Use optimized SVD as the primary engine.
-   Integrate content-based filtering for cold start and diversity.
-   Optionally blend models for final ranking.
-Monitor and Continuously Improve:
-   Track RMSE, Precision@K, Recall@K, coverage, diversity, and engagement.
-   Automate retraining and tuning as new data is collected.
-   Run A/B tests to optimize user experience and business KPIs.
-Expand Features and Data:
-   Add song/user features (genre, lyrics, demographics).
-   Use implicit feedback (skips, likes, playlist adds).
-   Build feedback loops for continuous improvement.
+### Deploy the Hybrid System:
+ *  Use optimized SVD as the primary engine.
+ *  Integrate content-based filtering for cold start and diversity.
+ *  Optionally blend models for final ranking.
+### Monitor and Continuously Improve:
+ *  Track RMSE, Precision@K, Recall@K, coverage, diversity, and engagement.
+ *  Automate retraining and tuning as new data is collected.
+ *  Run A/B tests to optimize user experience and business KPIs.
+### Expand Features and Data:
+ *  Add song/user features (genre, lyrics, demographics).
+ *  Use implicit feedback (skips, likes, playlist adds).
+ *  Build feedback loops for continuous improvement.
 
-Expected Benefits and Costs
+### Expected Benefits and Costs
 
-Benefits:
-  Projected 10–20% increase in user engagement and retention
-  Enhanced promotion of new releases and long-tail content
-  Improved user satisfaction and competitive differentiation
-Costs:
-  Initial investment in development and integration
-  Ongoing operational costs for retraining and monitoring
-  Estimated payback: 6–12 months with moderate retention increases
+## Benefits:
+ * Projected 10–20% increase in user engagement and retention
+ * Enhanced promotion of new releases and long-tail content
+ * Improved user satisfaction and competitive differentiation
+## Costs:
+ * Initial investment in development and integration
+ * Ongoing operational costs for retraining and monitoring
+ * Estimated payback: 6–12 months with moderate retention increases
 
-Risks and Challenges
+### Risks and Challenges
 
-Data Quality & Sparsity: Requires ongoing cleaning and enrichment
-Scalability: Computational demands grow with catalog and user base
-Interpretability: SVD/hybrid models are less transparent; consider explainability tools
+* Data Quality & Sparsity: Requires ongoing cleaning and enrichment
+* Scalability: Computational demands grow with catalog and user base
+* Interpretability: SVD/hybrid models are less transparent; consider explainability tools
 
-Next Steps
+### Next Steps
 
-Explore advanced hybrid/ensemble and deep learning techniques
-Benchmark against industry standards and run user surveys
-Investigate explainability and user control features (“Why was this recommended?”)
-Monitor for model drift and update as user behavior changes
+* Explore advanced hybrid/ensemble and deep learning techniques
+* Benchmark against industry standards and run user surveys
+* Investigate explainability and user control features (“Why was this recommended?”)
+* Monitor for model drift and update as user behavior changes
 
-Full Report & Code
+### Full Report & Code
 
-Access the complete project report, code, and analysis here:  
-Music Recommendation System – Google Drive
+ Access the complete project report, code, and analysis here:  
+  Music Recommendation System – Google Drive
 
 https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link
 
