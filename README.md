@@ -98,7 +98,7 @@ Full Report & Code
 
 Access the complete project report, code, and analysis here:  
 Music Recommendation System – Google Drive
-https://drive.google.com/file/d/1c-b5tf_weWEnZUVZK74UIPlu1eZfUOgg/view?usp=share_link
+https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link
 
 For questions or collaboration inquiries, please reach out via email or connect on GitHub.
 
