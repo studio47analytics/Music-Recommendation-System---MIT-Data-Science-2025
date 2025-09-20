@@ -1,4 +1,4 @@
-# Music Recommendation System  - MIT Data Science 2025
+# Music Recommendation System  | MIT Data Science 2025
 Music Recommendation System
 
 Author: Austin McCollough  
