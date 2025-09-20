@@ -18,7 +18,7 @@ Full Report & Code: Google Drive Link
 ### Next Steps
 ### Full Report & Code
 
-## Project Overview
+## Project Overview 
 
 This project addresses the challenge of surfacing relevant, engaging music for users in today’s crowded digital landscape. Multiple recommendation strategies were explored—popularity-based, collaborative filtering (user-user and item-item), matrix factorization (SVD), clustering, and content-based filtering—to identify the most effective, scalable solution.
 
