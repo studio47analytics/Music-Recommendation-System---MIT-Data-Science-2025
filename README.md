@@ -127,3 +127,9 @@ For questions or collaboration inquiries, please reach out via email or connect 
 GH: https://github.com/amccolloughdatascience
 
 E: amcco.datascience@gmail.com
+
+---
+
+**Prepared by Austin McCollough | studio.47 Analytics**  
+
+---
