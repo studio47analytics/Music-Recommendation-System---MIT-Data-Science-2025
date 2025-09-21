@@ -110,7 +110,7 @@ https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share
 * Investigate explainability and user control features (“Why was this recommended?”)
 * Monitor for model drift and update as user behavior changes
 
-### Full Report & Code
+## Full Report & Code
 
 **Access the complete project report, code, and analysis here:**  
  
