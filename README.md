@@ -3,7 +3,7 @@ Music Recommendation System
 
 Author: Austin McCollough  
 Program: MIT Applied Data Science Program, Summer Cohort 2025  
-Full Report & Code: Google Drive Link
+Full Report & Code: [Google Drive - Music Recommendation Systems](https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link)
 
 ## Table of Contents
 
@@ -106,10 +106,13 @@ https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share
 
  Access the complete project report, code, and analysis here:  
  
-  [Music Recommendation System Project Folder]d
+ [Google Drive - Music Recommendation Systems](https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link)
+
+ Access all original datasets and supporting resources for this project here:  
+
+ [Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1Sgwo0CyK8LmC3vMczqx67NaOMOC-SvNk?usp=share_link)
 
 
-https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link
 
 For questions or collaboration inquiries, please reach out via email or connect on GitHub.
 
