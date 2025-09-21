@@ -112,11 +112,11 @@ https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share
 
 ### Full Report & Code
 
- Access the complete project report, code, and analysis here:  
+**Access the complete project report, code, and analysis here:**  
  
  [Google Drive - Music Recommendation Systems](https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link)
 
- Access all original datasets and supporting resources for this project here:  
+**Access all original datasets and supporting resources for this project here:**
 
  [Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1Sgwo0CyK8LmC3vMczqx67NaOMOC-SvNk?usp=share_link)
 
