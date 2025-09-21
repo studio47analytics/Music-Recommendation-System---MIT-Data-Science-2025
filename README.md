@@ -1,9 +1,17 @@
 # Music Recommendation System  | MIT Applied Data Science - AI & Machine Learning 2025
-Music Recommendation System
+**Music Recommendation Systems**
 
-Author: Austin McCollough  
-Program: MIT Applied Data Science Program, Summer Cohort 2025  
-Full Report & Code: [Google Drive - Music Recommendation Systems](https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link)
+Built and compared multiple music recommendation systems (popularity, collaborative, content-based, SVD) using user-song play data. Optimized for accuracy, diversity, and cold start—hybrid approach boosts engagement and personalizes music discovery.
+
+**Author:** Austin McCollough
+
+**Program:** MIT Applied Data Science Program, Summer Cohort 2025  
+
+**Date:** August 2025
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-surprise
+
+**Full Report & Code:** [Google Drive - Music Recommendation Systems](https://drive.google.com/drive/folders/1GSBZZzNu1CUkqxx8wOpQ3zrakOhcyB0K?usp=share_link)
 
 ## Table of Contents
 
