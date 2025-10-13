@@ -124,7 +124,7 @@ https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share
 
 For questions or collaboration inquiries, please reach out via email or connect on GitHub.
 
-GH: https://github.com/amccolloughdatascience
+[GH:](https://github.com/data-wizard-aus)
 
 E: amcco.datascience@gmail.com
 
