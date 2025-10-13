@@ -124,9 +124,11 @@ https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share
 
 For questions or collaboration inquiries, please reach out via email or connect on GitHub.
 
-GitHub:[https://github.com/data-wizard-aus](https://github.com/data-wizard-aus)
+GitHub: [https://github.com/data-wizard-aus](https://github.com/data-wizard-aus)
 
 Email: amcco.datascience@gmail.com
+
+Portfolio: [https://datawizard.myportfolio.com](https://datawizard.myportfolio.com)
 
 ---
 
