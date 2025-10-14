@@ -122,16 +122,13 @@ https://drive.google.com/file/d/1G-Z7sACzbH1ziI2nYuGMjoEttGFqsnbW/view?usp=share
 
 
 
-For questions or collaboration inquiries, please reach out via email or connect on GitHub.
-
-GitHub: [https://github.com/data-wizard-aus](https://github.com/data-wizard-aus)
-
-Email: amcco.datascience@gmail.com
-
-Portfolio: [https://datawizard.myportfolio.com](https://datawizard.myportfolio.com)
-
+For questions or collaboration:  
+- GitHub: [Data Wizard Aus](https://github.com/data-wizard-aus)  
+- Email: datawizard.aus@outlook.com
+- Portfolio: [https://datawizardaus.myportfolio.com/w](https://datawizardaus.myportfolio.com/w)
+  
 ---
 
-**Prepared by Austin McCollough | studio.47 Analytics**  
+**Prepared by Austin McCollough**  
 
 ---
